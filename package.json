@@ -1,0 +1,34 @@
+{
+  "name": "sinjhin-projects",
+  "version": "0.0.1",
+  "description": "Side projects I am working on.",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sinjhin/projects.git"
+  },
+  "keywords": [
+    "Sinjhin",
+    "projects",
+    "apps",
+    "under",
+    "construction",
+    "in-progress",
+    "test",
+    "testing",
+    "ardea",
+    "silverhand",
+    "strixian",
+    "john",
+    "johnwebdev"
+  ],
+  "author": "John Gardner (Sinjhin)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sinjhin/projects/issues"
+  },
+  "homepage": "https://github.com/Sinjhin/projects#readme"
+}
